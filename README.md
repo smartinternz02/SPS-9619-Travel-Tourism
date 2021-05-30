@@ -1,7 +1,7 @@
 # SPS-9619-Travel-Tourism
 Travel &amp; Tourism
 
-Story Link : https://public.tableau.com/profile/vemulapalli.sathya#!/vizhome/DATAVIZ_CHALLENGE/ForeignTouristArrivalinIndiaDataAnalysis2018
+Story Link : https://public.tableau.com/app/profile/vemulapalli.sathya/viz/DATAVIZ_CHALLENGE/ForeignTouristArrivalinIndiaDataAnalysis2018
 
 Brief Video Explanation Link(around 5 mins): https://drive.google.com/file/d/1n01gp8zh2qPpttfnQt9uZI5PYXUXtkql/view?usp=sharing
 
